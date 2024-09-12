@@ -1,0 +1,35 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  font-family: arial, sans-serif;
+  background-color: #d8b49c;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+text-align: center;
+margin-top: 50px;
+}
+
+hi{
+color:#333333;
+}
+
+p{
+  color:#111111;
+}
+
+img{
+  width: 400px;
+}
+
+.contador{
+font-size: 36px;
+  color:#b44275;
+margin-top: 20px;  
+}
+
